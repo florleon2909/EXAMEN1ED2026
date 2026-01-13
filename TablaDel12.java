@@ -1,23 +1,25 @@
-public class TablaDel12 
+public class TablaDel12
 
-{ 
+{
 
-    public static void main(String args[]) 
+    public static void main(String args[])
 
-    { 
+    {
 
-        for(int i = 0; i <= 10; i++) 
+        for (int i = 0; i <= 10; i++)
 
-        { 
+        {
 
-            System.out.println("12 * "+ i + " = " + 12 * i + "\n"); 
+            System.out.println("12 * " + i + " = " + 12 * i + "\n");
+            System.out.println("Esta es la tabla del 12");
+            System.out.println("Se ha imprimido por pantalla la tabla del 12");
 
-            System.out.println("Desarrollado para la aplicación Maths.");
+
+            System.out.println("En el siguiente fichero estará la tabla del 13");
+            System.out.println("agrgego esto para ver si hago el conflicto");
+        }
 
 
-            System.out.println("creo un conflicto");
-        } 
+    }
 
-    } 
-
-} 
+}
