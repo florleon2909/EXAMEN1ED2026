@@ -15,7 +15,7 @@ public class TablaDel12
             System.out.println("Se ha imprimido por pantalla la tabla del 12");
 
             System.out.println("En el siguiente fichero estará la tabla del 13");
-             System.out.println("CREO UNA LINEA DE CONFLICTO");
+             System.out.println("agrgego esto para ver si hago el conflicto");
         }
 
     }
